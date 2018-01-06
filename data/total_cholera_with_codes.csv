@@ -1,0 +1,155 @@
+,Country,Code,Cases
+0,Afghanistan,AFG,263843
+1,Albania,ALB,626
+2,Algeria,DZA,12729
+3,Angola,AGO,191036
+4,Argentina,ARG,4550
+5,Armenia,ARM,25
+6,Australia,AUS,127
+7,Austria,AUT,9
+8,Azerbaijan,AZE,18
+9,Bahamas,BHS,2
+10,Bahrain,BHR,1065
+11,Bangladesh,BGD,294647
+12,Belarus,BLR,6
+13,Belgium,BEL,10
+14,Belize,BLZ,387
+15,Benin,BEN,31581
+16,Bhutan,BTN,960
+17,Bolivia (Plurinational State of),BOL,42548
+18,Botswana,BWA,23
+19,Brazil,BRA,173220
+20,Brunei Darussalam,BRN,325
+21,Burkina Faso,BFA,12707
+22,Burundi,BDI,35219
+23,Cabo Verde,CPV,14144
+24,Cambodia,KHM,17392
+25,Cameroon,CMR,76422
+26,Canada,CAN,81
+27,Central African Republic,CAF,923
+28,Chad,TCD,80846
+29,Chile,CHL,180
+30,China,CHN,86905
+31,Colombia,COL,36678
+32,Comoros,COM,17866
+33,Congo,COG,20166
+34,Costa Rica,CRI,108
+35,Cuba,CUB,739
+36,Côte d'Ivoire,CIV,24303
+37,Denmark,DNK,11
+38,Djibouti,DJI,19430
+39,Dominican Republic,DOM,33223
+40,Ecuador,ECU,93972
+41,El Salvador,SLV,31860
+42,Equatorial Guinea,GNQ,6962
+43,Eritrea,ERI,120
+44,Estonia,EST,2
+45,Ethiopia,ETH,118297
+46,Finland,FIN,7
+47,France,FRA,184
+48,Gabon,GAB,649
+49,Gambia,GMB,252
+50,Georgia,GEO,8
+51,Germany,DEU,70
+52,Ghana,GHA,167934
+53,Greece,GRC,2
+54,Guatemala,GTM,74430
+55,Guinea,GIN,68305
+56,Guinea-Bissau,GNB,95657
+57,Guyana,GUY,642
+58,Haiti,HTI,795794
+59,Honduras,HND,15382
+60,Hungary,HUN,1
+61,India,IND,1363250
+62,Indonesia,IDN,394945
+63,Iran (Islamic Republic of),IRN,72794
+64,Iraq,IRQ,22763
+65,Ireland,IRL,1
+66,Israel,ISR,202
+67,Italy,ITA,307
+68,Japan,JPN,1723
+69,Jordan,JOR,1595
+70,Kazakhstan,KAZ,99
+71,Kenya,KEN,118214
+72,Kiribati,KIR,1801
+73,Kuwait,KWT,325
+74,Kyrgyzstan,KGZ,4
+75,Lao People's Democratic Republic,LAO,18352
+76,Lebanon,LBN,432
+77,Lesotho,LSO,0
+78,Liberia,LBR,85354
+79,Libya,LBY,1173
+80,Madagascar,MDG,46531
+81,Malawi,MWI,142935
+82,Malaysia,MYS,25466
+83,Maldives,MDV,11336
+84,Mali,MLI,33620
+85,Marshall Islands,MHL,300
+86,Mauritania,MRT,17765
+87,Mauritius,MUS,0
+88,Mexico,MEX,45781
+89,Micronesia (Federated States of),FSM,3501
+90,Mongolia,MNG,177
+91,Morocco,MAR,4644
+92,Mozambique,MOZ,327913
+93,Myanmar,MMR,38847
+94,Namibia,NAM,4342
+95,Nauru,NRU,88
+96,Nepal,NPL,68011
+97,Netherlands,NLD,60
+98,New Zealand,NZL,18
+99,Nicaragua,NIC,32442
+100,Niger,NER,40624
+101,Nigeria,NGA,310217
+102,Norway,NOR,9
+103,Oman,OMN,18
+104,Pakistan,PAK,28301
+105,Panama,PAN,3636
+106,Papua New Guinea,PNG,13782
+107,Paraguay,PRY,12
+108,Peru,PER,736195
+109,Philippines,PHL,98835
+110,Poland,POL,3
+111,Portugal,PRT,3599
+112,Qatar,QAT,4
+113,Romania,ROU,712
+114,Russian Federation,RUS,2029
+115,Rwanda,RWA,11813
+116,Samoa,WSM,1
+117,Sao Tome and Principe,STP,7861
+118,Saudi Arabia,SAU,908
+119,Senegal,SEN,67623
+120,Seychelles,SYC,178
+121,Sierra Leone,SLE,61844
+122,Singapore,SGP,893
+123,Slovenia,SVN,0
+124,Somalia,SOM,311203
+125,South Africa,ZAF,186463
+126,South Sudan,SSD,12534
+127,Spain,ESP,360
+128,Sri Lanka,LKA,10461
+129,Sudan,SDN,80634
+130,Suriname,SUR,12
+131,Swaziland,SWZ,10107
+132,Sweden,SWE,29
+133,Switzerland,CHE,16
+134,Syrian Arab Republic,SYR,4472
+135,Tajikistan,TJK,175
+136,Thailand,THA,55982
+137,Togo,TGO,16344
+138,Tonga,TON,145
+139,Tunisia,TUN,687
+140,Turkey,TUR,401
+141,Turkmenistan,TKM,647
+142,Tuvalu,TUV,335
+143,Uganda,UGA,108877
+144,Ukraine,UKR,1448
+145,United Arab Emirates,ARE,5
+146,United Kingdom of Great Britain and Northern Ireland,GBR,442
+147,United States of America,USA,439
+148,Uzbekistan,UZB,1
+149,Venezuela (Bolivarian Republic of),VEN,6969
+150,Viet Nam,VNM,73128
+151,Yemen,YEM,52462
+152,Zambia,ZMB,97606
+153,Zimbabwe,ZWE,153428
